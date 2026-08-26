@@ -12,11 +12,11 @@
 
 <p align="center">
   <a href="https://github.com/vanshthakur0508-droid">
-    <img src="https://komarev.com/ghpvc/?username=vanshthakur0508-droid&label=Profile%20Views&color=0e75b6&style=flat" />
+    <img src="https://img.shields.io/badge/GitHub-vanshthakur0508--droid-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="https://github.com/vanshthakur0508-droid?tab=followers">
-    <img src="https://img.shields.io/github/followers/vanshthakur0508-droid?label=Followers&style=flat&color=blue" />
+  <a href="https://www.linkedin.com/in/vansh-thakur-2007b0339/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
