@@ -11,11 +11,12 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <a href="https://github.com/vanshthakur0508-droid">
+    <img src="https://komarev.com/ghpvc/?username=vanshthakur0508-droid&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat&color=blue" />
+
+  <a href="https://github.com/vanshthakur0508-droid?tab=followers">
+    <img src="https://img.shields.io/github/followers/vanshthakur0508-droid?label=Followers&style=flat&color=blue" />
   </a>
 </p>
 
