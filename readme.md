@@ -11,9 +11,9 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/vanshthakur0508-droid">
+  <!-- <a href="https://github.com/vanshthakur0508-droid">
     <img src="https://img.shields.io/badge/GitHub-vanshthakur0508--droid-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  </a> -->
 
   <a href="https://www.linkedin.com/in/vansh-thakur-2007b0339/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
